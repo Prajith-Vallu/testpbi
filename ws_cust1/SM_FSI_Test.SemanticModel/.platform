@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "SM_FSI_Test"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "168bc446-8d4b-4abc-a321-98d731b7150b"
+  }
+}

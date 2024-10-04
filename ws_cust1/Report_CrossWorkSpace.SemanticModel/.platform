@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Report_CrossWorkSpace"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "606e9ba4-1eb5-4c21-932d-768bf000c85c"
+  }
+}
